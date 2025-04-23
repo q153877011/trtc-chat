@@ -8,7 +8,7 @@ In addition, by reading this document, you will learn how to quickly run the TUI
 
 Using the EdgeOne page, you can achieve zero-code audio and video conference system setup through rapid template deployment.
 
-<a href="https://edgeone.ai/pages/new?from=github&amp;template=https://github.com/q153877011/trtc-chat&amp;from=github" rel="nofollow"><img src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667" alt="Deploy with EdgeOne Pages" style="max-width: 100%;"></a>
+<a href="https://edgeone.ai/pages/new?from=github&amp;template=https://github.com/q153877011/trtc-chat&amp;output-directory=build&amp;install-command=npm%20install&amp;build-command=npm%20run%20build&amp;from=github" rel="nofollow"><img src="https://camo.githubusercontent.com/6a94a67f6a020d5810ef905549fc5255bf99ccd09f17881b6855b332b579a364/68747470733a2f2f63646e7374617469632e74656e63656e7463732e636f6d2f656467656f6e652f70616765732f6465706c6f792e737667" alt="Deploy with EdgeOne Pages" style="max-width: 100%;"></a>
 
 You can click the "View Demo" button on the left to experience the online demonstration.
 
